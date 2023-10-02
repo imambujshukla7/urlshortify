@@ -1,6 +1,6 @@
 # URLShortify
 
-URLShortify is a URL shortener to shorten your large URLs, powered by Python 
+URLShortify is a URL shortener to shorten your large URLs, powered by Python. This application allows users to generate shortened URLs for long web addresses, making them more convenient to share
 
 ## Project Structure
 
