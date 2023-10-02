@@ -1,0 +1,5 @@
+{
+  "abc12345": "https://www.example.com/long-url-1",
+  "xyz67890": "https://www.example.com/long-url-2",
+  "short123": "https://www.example.com/another-long-url"
+}
